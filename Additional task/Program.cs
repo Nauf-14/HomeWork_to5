@@ -29,7 +29,7 @@ string GoodStudent(int[] array)
     {
       if (NegativeRating(array) < PositiveRating(array))
       {
-      Console.WriteLine(array);     
+           
       return "yes";
       }
       
